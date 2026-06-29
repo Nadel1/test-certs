@@ -1,2 +1,2 @@
 # test-certs
-Certificates used for testing purposes
+Certificates used for testing purposes in workbenches.
